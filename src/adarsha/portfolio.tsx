@@ -38,11 +38,6 @@ const social_media = [
     links: "https://github.com/adarsha5",
   },
   {
-    name: "youtube",
-    logo: "YouTubeIcon",
-    links: "#",
-  },
-  {
     name: "facebook",
     logo: "FacebookIcon",
     links: "https://www.facebook.com/profile.php?id=100039308932060",
@@ -150,7 +145,7 @@ const projectsData: Project[] = [
       "Tailwind",
       "Redux",
     ],
-    link: "#",
+    link: "https://github.com/adarsha5/fashion-e-commerce",
   },
 ];
 
