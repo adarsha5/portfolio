@@ -456,7 +456,7 @@ const Portfolio: React.FC = () => {
               <strong>College : </strong>Future Institute of Engineering and
               Management <br />
               <strong>University : </strong>Maulana Abul Kalam Azad University
-              of Technology — 2022–2026 (parsuing)
+              of Technology — 2023–2026 (parsuing)
             </p>
           </div>
           <div className="border-l-4 border-teal-500 pl-4 mt-5">
